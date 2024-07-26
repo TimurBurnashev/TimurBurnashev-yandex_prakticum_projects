@@ -1,1 +1,1 @@
-# TimurBurnashev-yandex_prakticum_projects
+# Проекты "Аналитик данных плюс" в Яндекс.Практикум
